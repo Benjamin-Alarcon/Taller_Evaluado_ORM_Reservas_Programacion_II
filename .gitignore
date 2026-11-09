@@ -1,5 +1,4 @@
 # Python-generated files
-__pycache__/
 *.py[oc]
 build/
 dist/
@@ -8,4 +7,3 @@ wheels/
 
 # Virtual environments
 .venv
-src/09_11_2026/__init__.py
